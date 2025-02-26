@@ -1,8 +1,10 @@
 # Medical Appointment Booking System
 
 ## 📌 Project Overview
-This project is a web-based Medical Appointment Booking System that allows patients to book appointments with doctors based on their availability. It provides separate interfaces for both patients and doctors, streamlining the appointment scheduling process.
-
+MEDI_TECH is an integrated, AI-powered hospital management solution that streamlines healthcare
+operations by automating prescription recognition, appointment scheduling, inventory management, and
+overall hospital administration. Leveraging a CNN+LSTM-based OCR for handwritten prescriptions, the
+system reduces errors and enhances efficiency for hospitals and pharmacies.
 ---
 
 ## 🛠️ Technologies Used
