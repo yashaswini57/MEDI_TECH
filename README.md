@@ -1,10 +1,14 @@
-# Medical Appointment Booking System
+# 🏥 Medical Appointment Booking System
 
 ## 📌 Project Overview
-MEDI_TECH is an integrated, AI-powered hospital management solution that streamlines healthcare
-operations by automating prescription recognition, appointment scheduling, inventory management, and
-overall hospital administration. Leveraging a CNN+LSTM-based OCR for handwritten prescriptions, the
-system reduces errors and enhances efficiency for hospitals and pharmacies.
+**MEDI_TECH** is an integrated, AI-powered hospital management solution that streamlines healthcare operations by automating:
+- Prescription recognition
+- Appointment scheduling
+- Inventory management
+- Overall hospital administration
+
+Leveraging a **CNN+LSTM-based OCR** for handwritten prescriptions, the system reduces errors and enhances efficiency for hospitals and pharmacies.
+
 ---
 
 ## 🛠️ Technologies Used
@@ -16,20 +20,26 @@ system reduces errors and enhances efficiency for hospitals and pharmacies.
 
 ## 🚀 Installation & Setup
 
-### Frontend
+### 📌 Prerequisites
+Ensure you have the following installed:
+- **Node.js** (for frontend)
+- **Java JDK** (for Spring Boot backend)
+- **MySQL** (for database)
+
+### 🔧 Frontend Setup
 ```sh
 npm install
 npm start
 ```
 
-### Backend
+### 🔧 Backend Setup
 ```sh
 mvn spring-boot:run
 ```
 
 ---
 
-## 🏥 Patient Interface
+## 👤 Patient Interface
 
 ### 1️⃣ Available Doctors
 ![Available Doctors](https://github.com/user-attachments/assets/19868ced-983f-4acf-a3c4-83f1770011b5)
@@ -59,10 +69,17 @@ mvn spring-boot:run
 ### 3️⃣ Appointment History
 ![Appointment History](https://github.com/user-attachments/assets/068ab36e-2dbe-462d-b2b4-5a20f03d058f)
 
+### 4️⃣ Upload Prescription & Close Appointment
+![Upload Prescription](https://github.com/user-attachments/assets/a478d85b-02b2-4bd7-b63d-2be84d09d655)
+![Close Appointment](https://github.com/user-attachments/assets/b468ac47-1b8c-4dd5-a7fb-cb884af6e25d)
+
 ---
 
-## 📞 Contact-8897539257
-For any queries or contributions, feel free to reach out!
+## 📞 Contact
+For any queries or contributions, feel free to reach out:
+- 📩 **Email**: yashaswinisurapaneni@gmail.com
+- 🌐 **GitHub**: [Repo Link](https://github.com/yashaswini57/MEDI_TECH)
+- 📱 **Phone**: +91-8897539257
 
 ---
 
